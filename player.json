@@ -1,0 +1,186 @@
+{
+    "status": "OK",
+    "data": {
+        "info": {
+            "id": "8480",
+            "url": "https://www.vlr.gg/player/8480",
+            "img": "https://owcdn.net/img/64169733ae9f1.png",
+            "user": "aspas",
+            "name": "Erick Santos",
+            "country": "brazil",
+            "flag": "br"
+        },
+        "team": {
+            "id": "7386",
+            "url": "https://www.vlr.gg/team/7386/mibr",
+            "name": "MIBR",
+            "logo": "https://owcdn.net/img/632be7626d6d9.png",
+            "joined": "joined in November 2024"
+        },
+        "results": [
+            {
+                "match": {
+                    "id": "428009",
+                    "url": "https://www.vlr.gg/428009/leviat-n-vs-mibr-champions-tour-2025-americas-kickoff-lr3"
+                },
+                "event": {
+                    "name": "VCT 25: AMER Kickoff",
+                    "logo": "https://owcdn.net/img/640f5ab71dfbb.png"
+                },
+                "teams": [
+                    {
+                        "name": "MIBR",
+                        "tag": "MIBR",
+                        "logo": "https://owcdn.net/img/632be7626d6d9.png",
+                        "points": "2"
+                    },
+                    {
+                        "name": "LEVIAT\u00c1N",
+                        "tag": "LEV",
+                        "logo": "https://owcdn.net/img/61b8888cc3860.png",
+                        "points": "1"
+                    }
+                ]
+            },
+            {
+                "match": {
+                    "id": "428007",
+                    "url": "https://www.vlr.gg/428007/evil-geniuses-vs-mibr-champions-tour-2025-americas-kickoff-lr2"
+                },
+                "event": {
+                    "name": "VCT 25: AMER Kickoff",
+                    "logo": "https://owcdn.net/img/640f5ab71dfbb.png"
+                },
+                "teams": [
+                    {
+                        "name": "MIBR",
+                        "tag": "MIBR",
+                        "logo": "https://owcdn.net/img/632be7626d6d9.png",
+                        "points": "2"
+                    },
+                    {
+                        "name": "Evil Geniuses",
+                        "tag": "EG",
+                        "logo": "https://owcdn.net/img/667462f046618.png",
+                        "points": "0"
+                    }
+                ]
+            },
+            {
+                "match": {
+                    "id": "428004",
+                    "url": "https://www.vlr.gg/428004/cloud9-vs-mibr-champions-tour-2025-americas-kickoff-lr1"
+                },
+                "event": {
+                    "name": "VCT 25: AMER Kickoff",
+                    "logo": "https://owcdn.net/img/640f5ab71dfbb.png"
+                },
+                "teams": [
+                    {
+                        "name": "MIBR",
+                        "tag": "MIBR",
+                        "logo": "https://owcdn.net/img/632be7626d6d9.png",
+                        "points": "2"
+                    },
+                    {
+                        "name": "Cloud9",
+                        "tag": "C9",
+                        "logo": "https://owcdn.net/img/628addcbd509e.png",
+                        "points": "1"
+                    }
+                ]
+            },
+            {
+                "match": {
+                    "id": "427992",
+                    "url": "https://www.vlr.gg/427992/mibr-vs-100-thieves-champions-tour-2025-americas-kickoff-ur1"
+                },
+                "event": {
+                    "name": "VCT 25: AMER Kickoff",
+                    "logo": "https://owcdn.net/img/640f5ab71dfbb.png"
+                },
+                "teams": [
+                    {
+                        "name": "MIBR",
+                        "tag": "MIBR",
+                        "logo": "https://owcdn.net/img/632be7626d6d9.png",
+                        "points": "0"
+                    },
+                    {
+                        "name": "100 Thieves",
+                        "tag": "100T",
+                        "logo": "https://owcdn.net/img/603c00d5c5a08.png",
+                        "points": "2"
+                    }
+                ]
+            },
+            {
+                "match": {
+                    "id": "430099",
+                    "url": "https://www.vlr.gg/430099/furia-vs-mibr-tixinha-invitational-by-bonoxs-gf"
+                },
+                "event": {
+                    "name": "Tixinha Invitational",
+                    "logo": "https://owcdn.net/img/6748de4b4f8bf.png"
+                },
+                "teams": [
+                    {
+                        "name": "MIBR",
+                        "tag": "MIBR",
+                        "logo": "https://owcdn.net/img/632be7626d6d9.png",
+                        "points": "1"
+                    },
+                    {
+                        "name": "FURIA",
+                        "tag": "FUR",
+                        "logo": "https://owcdn.net/img/632be843b7d51.png",
+                        "points": "2"
+                    }
+                ]
+            }
+        ],
+        "pastTeams": [
+            {
+                "id": "2359",
+                "url": "https://www.vlr.gg/team/2359/leviat-n",
+                "name": "LEVIAT\u00c1N",
+                "logo": "https://owcdn.net/img/61b8888cc3860.png",
+                "info": "October 2023 \u2013 November 2024"
+            },
+            {
+                "id": "6961",
+                "url": "https://www.vlr.gg/team/6961/loud",
+                "name": "LOUD",
+                "logo": "https://owcdn.net/img/62bbec8dc1b9f.png",
+                "info": "February 2022 \u2013 September 2023"
+            },
+            {
+                "id": "7370",
+                "url": "https://www.vlr.gg/team/7370/pancada-e-amigos",
+                "name": "Pancada e Amigos",
+                "logo": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+                "info": "left in February 2022"
+            },
+            {
+                "id": "2428",
+                "url": "https://www.vlr.gg/team/2428/slick",
+                "name": "SLICK",
+                "logo": "https://owcdn.net/img/605cc279bfc1a.png",
+                "info": "March 2021 \u2013 August 2021"
+            },
+            {
+                "id": "2437",
+                "url": "https://www.vlr.gg/team/2437/favela-aimers",
+                "name": "favela aimers",
+                "logo": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+                "info": "left in February 2021"
+            }
+        ],
+        "socials": {
+            "twitter": "@aspaszin",
+            "twitter_url": "https://x.com/aspaszin",
+            "twitch": "twitch.tv/aspaszin",
+            "twitch_url": "https://www.twitch.tv/aspaszin"
+        }
+    }
+}

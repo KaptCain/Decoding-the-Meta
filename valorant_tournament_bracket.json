@@ -1,0 +1,1020 @@
+[
+    {
+        "left team": [
+            "KR\u00dc Blaze2"
+        ],
+        "right team": [
+            "0ZETA DIVISION GC"
+        ],
+        "maps": [
+            "1376",
+            "",
+            "Bind",
+            "954",
+            "",
+            "1376",
+            "",
+            "Ascent",
+            "954",
+            "",
+            "",
+            "",
+            "Haven",
+            "",
+            "",
+            ""
+        ],
+        "left agents": [
+            "Viper",
+            "Brimstone",
+            "Skye",
+            "Neon",
+            "Yoru",
+            "Killjoy",
+            "Omen",
+            "KAY/O",
+            "Jett",
+            "Sova"
+        ],
+        "right agents": [
+            "Skye",
+            "Viper",
+            "Raze",
+            "Cypher",
+            "Brimstone",
+            "KAY/O",
+            "Omen",
+            "Jett",
+            "Killjoy",
+            "Sova"
+        ],
+        "winner": ""
+    },
+    {
+        "left team": [
+            "G2 Gozen2"
+        ],
+        "right team": [
+            "1KR\u00dc Blaze"
+        ],
+        "maps": [
+            "853",
+            "",
+            "Haven",
+            "1376",
+            "",
+            "1376",
+            "",
+            "Sunset",
+            "954",
+            "",
+            "1349",
+            "",
+            "Abyss",
+            "1183",
+            "",
+            ""
+        ],
+        "left agents": [
+            "Breach",
+            "Sova",
+            "Cypher",
+            "Neon",
+            "Omen",
+            "Breach",
+            "Fade",
+            "Cypher",
+            "Neon",
+            "Omen",
+            "KAY/O",
+            "Sova",
+            "Cypher",
+            "Jett",
+            "Omen"
+        ],
+        "right agents": [
+            "Cypher",
+            "Omen",
+            "Breach",
+            "Neon",
+            "Sova",
+            "Breach",
+            "Omen",
+            "Cypher",
+            "Neon",
+            "Sova",
+            "Cypher",
+            "Omen",
+            "KAY/O",
+            "Jett",
+            "Sova"
+        ],
+        "winner": ""
+    },
+    {
+        "left team": [
+            "GIANTX GC0"
+        ],
+        "right team": [
+            "2MIBR GC"
+        ],
+        "maps": [
+            "1037",
+            "",
+            "Pearl",
+            "1394",
+            "",
+            "431",
+            "",
+            "Sunset",
+            "1394",
+            "",
+            "",
+            "",
+            "Ascent",
+            "",
+            "",
+            ""
+        ],
+        "left agents": [
+            "Astra",
+            "Cypher",
+            "Sova",
+            "KAY/O",
+            "Jett",
+            "Omen",
+            "Cypher",
+            "Sova",
+            "KAY/O",
+            "Neon"
+        ],
+        "right agents": [
+            "Skye",
+            "Killjoy",
+            "Viper",
+            "Astra",
+            "Jett",
+            "Gekko",
+            "Cypher",
+            "Omen",
+            "Breach",
+            "Raze"
+        ],
+        "winner": ""
+    },
+    {
+        "left team": [
+            "G2 Gozen2"
+        ],
+        "right team": [
+            "1MIBR GC"
+        ],
+        "maps": [
+            "862",
+            "",
+            "Bind",
+            "1367",
+            "",
+            "1385",
+            "",
+            "Split",
+            "844",
+            "",
+            "13103",
+            "",
+            "Sunset",
+            "422",
+            "",
+            ""
+        ],
+        "left agents": [
+            "Gekko",
+            "Fade",
+            "Cypher",
+            "Raze",
+            "Brimstone",
+            "Deadlock",
+            "Skye",
+            "Cypher",
+            "Raze",
+            "Omen",
+            "Breach",
+            "Fade",
+            "Cypher",
+            "Neon",
+            "Omen"
+        ],
+        "right agents": [
+            "Gekko",
+            "Viper",
+            "Fade",
+            "Brimstone",
+            "Raze",
+            "Skye",
+            "Viper",
+            "Omen",
+            "Breach",
+            "Raze",
+            "Gekko",
+            "Cypher",
+            "Omen",
+            "Breach",
+            "Raze"
+        ],
+        "winner": ""
+    },
+    {
+        "left team": [
+            "ALG GC0"
+        ],
+        "right team": [
+            "2Falcons Vega"
+        ],
+        "maps": [
+            "642",
+            "",
+            "Haven",
+            "1385",
+            "",
+            "202",
+            "",
+            "Split",
+            "13121",
+            "",
+            "",
+            "",
+            "Bind",
+            "",
+            "",
+            ""
+        ],
+        "left agents": [
+            "Omen",
+            "Breach",
+            "Jett",
+            "Cypher",
+            "Sova",
+            "Omen",
+            "Breach",
+            "Raze",
+            "Cypher",
+            "Skye"
+        ],
+        "right agents": [
+            "Iso",
+            "Sova",
+            "Omen",
+            "Neon",
+            "Cypher",
+            "Deadlock",
+            "Fade",
+            "Omen",
+            "Yoru",
+            "Cypher"
+        ],
+        "winner": ""
+    },
+    {
+        "left team": [
+            "Shopify Rebellion2"
+        ],
+        "right team": [
+            "0Falcons Vega"
+        ],
+        "maps": [
+            "1394",
+            "",
+            "Haven",
+            "431",
+            "",
+            "13103",
+            "",
+            "Ascent",
+            "725",
+            "",
+            "",
+            "",
+            "Sunset",
+            "",
+            "",
+            ""
+        ],
+        "left agents": [
+            "Breach",
+            "Neon",
+            "Omen",
+            "Cypher",
+            "Sova",
+            "Deadlock",
+            "Yoru",
+            "Omen",
+            "Cypher",
+            "Sova"
+        ],
+        "right agents": [
+            "Iso",
+            "Sova",
+            "Omen",
+            "Neon",
+            "Cypher",
+            "Iso",
+            "Sova",
+            "Omen",
+            "Yoru",
+            "Cypher"
+        ],
+        "winner": ""
+    },
+    {
+        "left team": [
+            "FlyQuest RED1"
+        ],
+        "right team": [
+            "2Xipto GC"
+        ],
+        "maps": [
+            "431",
+            "",
+            "Pearl",
+            "1394",
+            "",
+            "1367",
+            "",
+            "Sunset",
+            "862",
+            "",
+            "136061",
+            "",
+            "Split",
+            "156261",
+            "",
+            ""
+        ],
+        "left agents": [
+            "Neon",
+            "Phoenix",
+            "Cypher",
+            "Astra",
+            "Sova",
+            "Neon",
+            "Breach",
+            "Cypher",
+            "Omen",
+            "Sova",
+            "Raze",
+            "Deadlock",
+            "Cypher",
+            "Omen",
+            "Skye"
+        ],
+        "right agents": [
+            "Jett",
+            "Neon",
+            "Fade",
+            "Astra",
+            "Harbor",
+            "Sova",
+            "Neon",
+            "KAY/O",
+            "Cypher",
+            "Omen",
+            "Raze",
+            "Neon",
+            "Skye",
+            "Cypher",
+            "Omen"
+        ],
+        "winner": ""
+    },
+    {
+        "left team": [
+            "Shopify Rebellion2"
+        ],
+        "right team": [
+            "0Xipto GC"
+        ],
+        "maps": [
+            "1367",
+            "",
+            "Pearl",
+            "862",
+            "",
+            "1358",
+            "",
+            "Sunset",
+            "1174",
+            "",
+            "",
+            "",
+            "Haven",
+            "",
+            "",
+            ""
+        ],
+        "left agents": [
+            "KAY/O",
+            "Jett",
+            "Astra",
+            "Killjoy",
+            "Sova",
+            "Breach",
+            "Neon",
+            "Omen",
+            "Cypher",
+            "Sova"
+        ],
+        "right agents": [
+            "Jett",
+            "Neon",
+            "Fade",
+            "Astra",
+            "Harbor",
+            "Sova",
+            "Neon",
+            "KAY/O",
+            "Cypher",
+            "Omen"
+        ],
+        "winner": ""
+    },
+    {
+        "left team": [
+            "G2 Gozen0"
+        ],
+        "right team": [
+            "2Shopify Rebellion"
+        ],
+        "maps": [
+            "155073",
+            "",
+            "Abyss",
+            "177451",
+            "",
+            "126060",
+            "",
+            "Haven",
+            "146161",
+            "",
+            "",
+            "",
+            "Sunset",
+            "",
+            "",
+            ""
+        ],
+        "left agents": [
+            "KAY/O",
+            "Sova",
+            "Cypher",
+            "Jett",
+            "Omen",
+            "Breach",
+            "Sova",
+            "Cypher",
+            "Neon",
+            "Omen"
+        ],
+        "right agents": [
+            "KAY/O",
+            "Jett",
+            "Omen",
+            "Cypher",
+            "Sova",
+            "Breach",
+            "Neon",
+            "Omen",
+            "Cypher",
+            "Sova"
+        ],
+        "winner": ""
+    },
+    {
+        "left team": [
+            "GIANTX GC2"
+        ],
+        "right team": [
+            "0ALG GC"
+        ],
+        "maps": [
+            "1367",
+            "",
+            "Haven",
+            "1064",
+            "",
+            "13112",
+            "",
+            "Ascent",
+            "110",
+            "",
+            "",
+            "",
+            "Pearl",
+            "",
+            "",
+            ""
+        ],
+        "left agents": [
+            "Omen",
+            "Killjoy",
+            "Breach",
+            "Viper",
+            "Yoru",
+            "Omen",
+            "Killjoy",
+            "Sova",
+            "KAY/O",
+            "Jett"
+        ],
+        "right agents": [
+            "Omen",
+            "Breach",
+            "Jett",
+            "Cypher",
+            "Sova",
+            "Omen",
+            "KAY/O",
+            "Jett",
+            "Killjoy",
+            "Sova"
+        ],
+        "winner": ""
+    },
+    {
+        "left team": [
+            "KR\u00dc Blaze2"
+        ],
+        "right team": [
+            "0GIANTX GC"
+        ],
+        "maps": [
+            "146161",
+            "",
+            "Bind",
+            "126060",
+            "",
+            "1376",
+            "",
+            "Split",
+            "954",
+            "",
+            "",
+            "",
+            "Abyss",
+            "",
+            "",
+            ""
+        ],
+        "left agents": [
+            "Viper",
+            "Brimstone",
+            "Skye",
+            "Neon",
+            "Yoru",
+            "Viper",
+            "Omen",
+            "Astra",
+            "Raze",
+            "Skye"
+        ],
+        "right agents": [
+            "Harbor",
+            "Viper",
+            "Sage",
+            "Skye",
+            "Raze",
+            "Astra",
+            "Raze",
+            "Viper",
+            "Skye",
+            "Jett"
+        ],
+        "winner": ""
+    },
+    {
+        "left team": [
+            "Xipto GC2"
+        ],
+        "right team": [
+            "1KR\u00dc Blaze"
+        ],
+        "maps": [
+            "642",
+            "",
+            "Haven",
+            "1385",
+            "",
+            "1349",
+            "",
+            "Abyss",
+            "1082",
+            "",
+            "1385",
+            "",
+            "Pearl",
+            "945",
+            "",
+            ""
+        ],
+        "left agents": [
+            "Sova",
+            "Neon",
+            "Breach",
+            "Cypher",
+            "Omen",
+            "Sova",
+            "Jett",
+            "KAY/O",
+            "Astra",
+            "Brimstone",
+            "Jett",
+            "Neon",
+            "Fade",
+            "Astra",
+            "Harbor"
+        ],
+        "right agents": [
+            "Cypher",
+            "Omen",
+            "Breach",
+            "Neon",
+            "Sova",
+            "Cypher",
+            "Omen",
+            "KAY/O",
+            "Jett",
+            "Sova",
+            "Cypher",
+            "Astra",
+            "KAY/O",
+            "Neon",
+            "Sova"
+        ],
+        "winner": ""
+    },
+    {
+        "left team": [
+            "FlyQuest RED1"
+        ],
+        "right team": [
+            "2ZETA DIVISION GC"
+        ],
+        "maps": [
+            "1385",
+            "",
+            "Haven",
+            "642",
+            "",
+            "1055",
+            "",
+            "Sunset",
+            "1376",
+            "",
+            "633",
+            "",
+            "Ascent",
+            "1394",
+            "",
+            ""
+        ],
+        "left agents": [
+            "Neon",
+            "Cypher",
+            "Omen",
+            "Sova",
+            "Breach",
+            "Neon",
+            "Cypher",
+            "Omen",
+            "Sova",
+            "Breach",
+            "Jett",
+            "Cypher",
+            "Omen",
+            "Sova",
+            "Deadlock"
+        ],
+        "right agents": [
+            "Breach",
+            "Omen",
+            "Neon",
+            "Cypher",
+            "Sova",
+            "Breach",
+            "Omen",
+            "Raze",
+            "Cypher",
+            "Sova",
+            "KAY/O",
+            "Omen",
+            "Jett",
+            "Killjoy",
+            "Sova"
+        ],
+        "winner": ""
+    },
+    {
+        "left team": [
+            "Falcons Vega0"
+        ],
+        "right team": [
+            "2ZETA DIVISION GC"
+        ],
+        "maps": [
+            "880",
+            "",
+            "Ascent",
+            "1349",
+            "",
+            "743",
+            "",
+            "Haven",
+            "1385",
+            "",
+            "",
+            "",
+            "Bind",
+            "",
+            "",
+            ""
+        ],
+        "left agents": [
+            "Iso",
+            "Sova",
+            "Omen",
+            "Yoru",
+            "Cypher",
+            "Iso",
+            "Sova",
+            "Omen",
+            "Neon",
+            "Cypher"
+        ],
+        "right agents": [
+            "KAY/O",
+            "Omen",
+            "Jett",
+            "Killjoy",
+            "Sova",
+            "Breach",
+            "Omen",
+            "Neon",
+            "Cypher",
+            "Sova"
+        ],
+        "winner": ""
+    },
+    {
+        "left team": [
+            "MIBR GC2"
+        ],
+        "right team": [
+            "0ZETA DIVISION GC"
+        ],
+        "maps": [
+            "13121",
+            "",
+            "Ascent",
+            "000",
+            "",
+            "1394",
+            "",
+            "Sunset",
+            "330",
+            "",
+            "",
+            "",
+            "Bind",
+            "",
+            "",
+            ""
+        ],
+        "left agents": [
+            "KAY/O",
+            "Killjoy",
+            "Sova",
+            "Omen",
+            "Jett",
+            "Gekko",
+            "Cypher",
+            "Omen",
+            "Breach",
+            "Raze"
+        ],
+        "right agents": [
+            "KAY/O",
+            "Omen",
+            "Jett",
+            "Killjoy",
+            "Sova",
+            "Breach",
+            "Omen",
+            "Raze",
+            "Cypher",
+            "Sova"
+        ],
+        "winner": ""
+    },
+    {
+        "left team": [
+            "Xipto GC1"
+        ],
+        "right team": [
+            "2MIBR GC"
+        ],
+        "maps": [
+            "413",
+            "",
+            "Bind",
+            "13112",
+            "",
+            "1394",
+            "",
+            "Split",
+            "633",
+            "",
+            "541",
+            "",
+            "Sunset",
+            "1385",
+            "",
+            ""
+        ],
+        "left agents": [
+            "Fade",
+            "Raze",
+            "Gekko",
+            "Viper",
+            "Brimstone",
+            "Raze",
+            "Neon",
+            "Skye",
+            "Cypher",
+            "Omen",
+            "Sova",
+            "Neon",
+            "KAY/O",
+            "Cypher",
+            "Omen"
+        ],
+        "right agents": [
+            "Gekko",
+            "Viper",
+            "Fade",
+            "Brimstone",
+            "Raze",
+            "Skye",
+            "Viper",
+            "Omen",
+            "Breach",
+            "Raze",
+            "Gekko",
+            "Cypher",
+            "Omen",
+            "Breach",
+            "Raze"
+        ],
+        "winner": ""
+    },
+    {
+        "left team": [
+            "G2 Gozen0"
+        ],
+        "right team": [
+            "3MIBR GC"
+        ],
+        "maps": [
+            "963",
+            "",
+            "Abyss",
+            "1367",
+            "",
+            "1028",
+            "",
+            "Bind",
+            "13103",
+            "",
+            "110",
+            "",
+            "Sunset",
+            "13112",
+            "",
+            "",
+            "",
+            "Haven",
+            "",
+            "",
+            "",
+            "",
+            "Pearl",
+            "",
+            "",
+            ""
+        ],
+        "left agents": [
+            "KAY/O",
+            "Sova",
+            "Cypher",
+            "Jett",
+            "Omen",
+            "Breach",
+            "Fade",
+            "Viper",
+            "Raze",
+            "Omen",
+            "Breach",
+            "Fade",
+            "Cypher",
+            "Neon",
+            "Omen"
+        ],
+        "right agents": [
+            "KAY/O",
+            "Cypher",
+            "Sova",
+            "Astra",
+            "Jett",
+            "Gekko",
+            "Viper",
+            "Fade",
+            "Brimstone",
+            "Raze",
+            "Gekko",
+            "Cypher",
+            "Omen",
+            "Breach",
+            "Raze"
+        ],
+        "winner": ""
+    },
+    {
+        "left team": [
+            "Shopify Rebellion3"
+        ],
+        "right team": [
+            "0MIBR GC"
+        ],
+        "maps": [
+            "1394",
+            "",
+            "Pearl",
+            "734",
+            "",
+            "1394",
+            "",
+            "Sunset",
+            "734",
+            "",
+            "1358",
+            "",
+            "Haven",
+            "1174",
+            "",
+            "",
+            "",
+            "Abyss",
+            "",
+            "",
+            "",
+            "",
+            "Ascent",
+            "",
+            "",
+            ""
+        ],
+        "left agents": [
+            "KAY/O",
+            "Jett",
+            "Astra",
+            "Killjoy",
+            "Sova",
+            "Breach",
+            "Neon",
+            "Omen",
+            "Cypher",
+            "Sova",
+            "Breach",
+            "Neon",
+            "Omen",
+            "Cypher",
+            "Sova"
+        ],
+        "right agents": [
+            "Skye",
+            "Killjoy",
+            "Viper",
+            "Astra",
+            "Jett",
+            "Gekko",
+            "Cypher",
+            "Omen",
+            "Breach",
+            "Raze",
+            "Breach",
+            "Cypher",
+            "Sova",
+            "Omen",
+            "Jett"
+        ],
+        "winner": ""
+    }
+]

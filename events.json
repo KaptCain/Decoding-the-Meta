@@ -1,0 +1,1536 @@
+{
+    "status": "OK",
+    "size": 170,
+    "data": [
+        {
+            "id": "2341",
+            "name": "FunhaverGG: Mad Science - Mirror",
+            "status": "completed",
+            "prizepool": "1100",
+            "dates": "Jan 31 Feb 2",
+            "country": "us",
+            "img": "https://owcdn.net/img/679ee0d830fd6.png"
+        },
+        {
+            "id": "2335",
+            "name": "Game Changers 2025 EMEA: Kickoff",
+            "status": "completed",
+            "prizepool": "0",
+            "dates": "Jan 24 Feb 2",
+            "country": "eu",
+            "img": "https://owcdn.net/img/604be13d01964.png"
+        },
+        {
+            "id": "2329",
+            "name": "MVT 3: Finals",
+            "status": "completed",
+            "prizepool": "2913",
+            "dates": "Jan 20 31",
+            "country": "mn",
+            "img": "https://owcdn.net/img/66dac0b39d43c.png"
+        },
+        {
+            "id": "2334",
+            "name": "FunhaverGG x HyperX Momentum Series: Qualifier 2",
+            "status": "completed",
+            "prizepool": "3000",
+            "dates": "Jan 24 26",
+            "country": "us",
+            "img": "https://owcdn.net/img/678195bb54fb7.png"
+        },
+        {
+            "id": "2275",
+            "name": "Champions Tour 2025: China Kickoff",
+            "status": "completed",
+            "prizepool": "",
+            "dates": "Jan 10 25",
+            "country": "cn",
+            "img": "https://owcdn.net/img/65dd97cea9a25.png"
+        },
+        {
+            "id": "2328",
+            "name": "FunhaverGG: Plain Jane",
+            "status": "completed",
+            "prizepool": "1000",
+            "dates": "Jan 17 19",
+            "country": "us",
+            "img": "https://owcdn.net/img/6711f3334e8bf.png"
+        },
+        {
+            "id": "2330",
+            "name": "Raidiant Academy 2025: 108",
+            "status": "completed",
+            "prizepool": "2000",
+            "dates": "Jan 18 19",
+            "country": "us",
+            "img": "https://owcdn.net/img/65e3d189100fa.png"
+        },
+        {
+            "id": "2321",
+            "name": "FunhaverGG x HyperX Momentum Series: Qualifier 1",
+            "status": "completed",
+            "prizepool": "2750",
+            "dates": "Jan 10 12",
+            "country": "us",
+            "img": "https://owcdn.net/img/678195bb54fb7.png"
+        },
+        {
+            "id": "2208",
+            "name": "Predator League Asia-Pacific 2025",
+            "status": "completed",
+            "prizepool": "120000",
+            "dates": "Jan 8 11",
+            "country": "my",
+            "img": "https://owcdn.net/img/6700aa169acc8.png"
+        },
+        {
+            "id": "2320",
+            "name": "ROK Valorant South Beach Series",
+            "status": "completed",
+            "prizepool": "5000",
+            "dates": "Jan 3 5",
+            "country": "us",
+            "img": "https://owcdn.net/img/66ae809d1703b.png"
+        },
+        {
+            "id": "2307",
+            "name": "BREAKPOINT 2025: Split 1",
+            "status": "completed",
+            "prizepool": "4457",
+            "dates": "Jan 1 5",
+            "country": "un",
+            "img": "https://owcdn.net/img/676a875158d0d.png"
+        },
+        {
+            "id": "2299",
+            "name": "SOOP Elite Cup 2024",
+            "status": "completed",
+            "prizepool": "4616",
+            "dates": "Dec 20 29",
+            "country": "tw",
+            "img": "https://owcdn.net/img/67613bd17589d.png"
+        },
+        {
+            "id": "2290",
+            "name": "Berryfam TTV Tournament Season 3",
+            "status": "completed",
+            "prizepool": "1010",
+            "dates": "Dec 25 29",
+            "country": "un",
+            "img": "https://owcdn.net/img/6750489496129.png"
+        },
+        {
+            "id": "2308",
+            "name": "TESFED Turkish Cup - 2024",
+            "status": "completed",
+            "prizepool": "5683",
+            "dates": "Dec 22 27",
+            "country": "tr",
+            "img": "https://owcdn.net/img/676d2def76177.png"
+        },
+        {
+            "id": "2255",
+            "name": "Predator League 2025 India",
+            "status": "completed",
+            "prizepool": "7708",
+            "dates": "Nov 11 Dec 27",
+            "country": "in",
+            "img": "https://owcdn.net/img/6700aa169acc8.png"
+        },
+        {
+            "id": "2312",
+            "name": "FunhaverGG: Winter Roundup Finals",
+            "status": "completed",
+            "prizepool": "1500",
+            "dates": "Dec 20 23",
+            "country": "us",
+            "img": "https://owcdn.net/img/6744108f9a14f.png"
+        },
+        {
+            "id": "2269",
+            "name": "Saudi eLeague 2024: Championship",
+            "status": "completed",
+            "prizepool": "106540",
+            "dates": "Dec 20 22",
+            "country": "sa",
+            "img": "https://owcdn.net/img/62bae74c4c147.png"
+        },
+        {
+            "id": "2291",
+            "name": "VCT OFF//SEASON Spotlight Series 2024: Pacific",
+            "status": "completed",
+            "prizepool": "50000",
+            "dates": "Dec 18 22",
+            "country": "un",
+            "img": "https://owcdn.net/img/675206f446122.png"
+        },
+        {
+            "id": "2297",
+            "name": "ON Live Valorant Series 2024: Week 4",
+            "status": "completed",
+            "prizepool": "6349",
+            "dates": "Dec 15 22",
+            "country": "vn",
+            "img": "https://owcdn.net/img/674c447eeaff5.png"
+        },
+        {
+            "id": "2173",
+            "name": "Challengers League 2024 Japan: Split 3",
+            "status": "completed",
+            "prizepool": "0",
+            "dates": "Aug 19 Dec 22",
+            "country": "jp",
+            "img": "https://owcdn.net/img/6009f963577f4.png"
+        },
+        {
+            "id": "2323",
+            "name": "Liga Radiante Season 10: Relegation",
+            "status": "completed",
+            "prizepool": "0",
+            "dates": "Dec 18 20",
+            "country": "es",
+            "img": "https://owcdn.net/img/62220ea912e96.png"
+        },
+        {
+            "id": "2298",
+            "name": "FunhaverGG: Winter Roundup 4",
+            "status": "completed",
+            "prizepool": "1000",
+            "dates": "Dec 13 15",
+            "country": "us",
+            "img": "https://owcdn.net/img/6744108f9a14f.png"
+        },
+        {
+            "id": "2278",
+            "name": "Tixinha Invitational by BONOXS",
+            "status": "completed",
+            "prizepool": "10000",
+            "dates": "Dec 9 15",
+            "country": "br",
+            "img": "https://owcdn.net/img/6748de4b4f8bf.png"
+        },
+        {
+            "id": "2302",
+            "name": "Alliance x Prospects Winter Showdown",
+            "status": "completed",
+            "prizepool": "1000",
+            "dates": "Dec 14 15",
+            "country": "us",
+            "img": "https://owcdn.net/img/6764a19021ca5.png"
+        },
+        {
+            "id": "2295",
+            "name": "A1 eSports Invitational 2024",
+            "status": "completed",
+            "prizepool": "2115",
+            "dates": "Dec 13 15",
+            "country": "eu",
+            "img": "https://owcdn.net/img/627972c55c3fc.png"
+        },
+        {
+            "id": "2285",
+            "name": "Wingwoman Series",
+            "status": "completed",
+            "prizepool": "10484",
+            "dates": "Dec 6 15",
+            "country": "eu",
+            "img": "https://owcdn.net/img/674df41aae00e.png"
+        },
+        {
+            "id": "2313",
+            "name": "GAMERGY 2024",
+            "status": "completed",
+            "prizepool": "2078",
+            "dates": "Dec 14 15",
+            "country": "es",
+            "img": "https://owcdn.net/img/6773f73f2347d.png"
+        },
+        {
+            "id": "2225",
+            "name": "SOOP Valorant League",
+            "status": "completed",
+            "prizepool": "87497",
+            "dates": "Dec 10 15",
+            "country": "kr",
+            "img": "https://owcdn.net/img/670e42f568e9c.png"
+        },
+        {
+            "id": "2289",
+            "name": "Superb Cup",
+            "status": "completed",
+            "prizepool": "16501",
+            "dates": "Dec 7 15",
+            "country": "cn",
+            "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png"
+        },
+        {
+            "id": "2224",
+            "name": "Riot Games ONE 2024",
+            "status": "completed",
+            "prizepool": "0",
+            "dates": "Dec 13 15",
+            "country": "jp",
+            "img": "https://owcdn.net/img/639081b381aee.png"
+        },
+        {
+            "id": "2288",
+            "name": "Valorant Underground: LATAM North",
+            "status": "completed",
+            "prizepool": "2500",
+            "dates": "Dec 10 13",
+            "country": "un",
+            "img": "https://owcdn.net/img/674f39347994b.png"
+        },
+        {
+            "id": "2292",
+            "name": "HereticsXP #2",
+            "status": "completed",
+            "prizepool": "0",
+            "dates": "Dec 13",
+            "country": "es",
+            "img": "https://owcdn.net/img/637b755224c12.png"
+        },
+        {
+            "id": "2200",
+            "name": "Gamers Club Challengers League 2024 Brazil: Split 3",
+            "status": "completed",
+            "prizepool": "9214",
+            "dates": "Nov 7 Dec 9",
+            "country": "br",
+            "img": "https://owcdn.net/img/66203e302897c.png"
+        },
+        {
+            "id": "2296",
+            "name": "FunhaverGG: Winter Roundup 3",
+            "status": "completed",
+            "prizepool": "1750",
+            "dates": "Dec 6 8",
+            "country": "us",
+            "img": "https://owcdn.net/img/6744108f9a14f.png"
+        },
+        {
+            "id": "2260",
+            "name": "VCT OFF//SEASON Spotlight Series 2024: Americas",
+            "status": "completed",
+            "prizepool": "25000",
+            "dates": "Dec 6 8",
+            "country": "us",
+            "img": "https://owcdn.net/img/675206f446122.png"
+        },
+        {
+            "id": "2287",
+            "name": "Valorant Underground: LATAM South",
+            "status": "completed",
+            "prizepool": "2500",
+            "dates": "Dec 3 8",
+            "country": "un",
+            "img": "https://owcdn.net/img/674f39347994b.png"
+        },
+        {
+            "id": "2205",
+            "name": "THE POKAL 2024",
+            "status": "completed",
+            "prizepool": "5518",
+            "dates": "Oct 4 Dec 8",
+            "country": "de",
+            "img": "https://owcdn.net/img/6531b4013bc83.png"
+        },
+        {
+            "id": "2266",
+            "name": "One Game Showdown",
+            "status": "completed",
+            "prizepool": "17771",
+            "dates": "Nov 29 Dec 8",
+            "country": "un",
+            "img": "https://owcdn.net/img/67477836df3b3.png"
+        },
+        {
+            "id": "2284",
+            "name": "ON Live Valorant Series 2024: Week 3",
+            "status": "completed",
+            "prizepool": "1823",
+            "dates": "Nov 30 Dec 8",
+            "country": "vn",
+            "img": "https://owcdn.net/img/674c447eeaff5.png"
+        },
+        {
+            "id": "2271",
+            "name": "Saudi Womens eLeague 2024: Championship",
+            "status": "completed",
+            "prizepool": "73205",
+            "dates": "Dec 5 7",
+            "country": "sa",
+            "img": "https://owcdn.net/img/62bae74c4c147.png"
+        },
+        {
+            "id": "2265",
+            "name": "Shanghai Esports Masters 2024",
+            "status": "completed",
+            "prizepool": "0",
+            "dates": "Dec 6 7",
+            "country": "cn",
+            "img": "https://owcdn.net/img/673c4d9940f93.png"
+        },
+        {
+            "id": "2294",
+            "name": "Valorant Indonesia CONNEXT 2024",
+            "status": "completed",
+            "prizepool": "0",
+            "dates": "Dec 7",
+            "country": "id",
+            "img": "https://owcdn.net/img/67540f4c5b42d.png"
+        },
+        {
+            "id": "2293",
+            "name": "KOICON 2024",
+            "status": "completed",
+            "prizepool": "0",
+            "dates": "Dec 6",
+            "country": "es",
+            "img": "https://owcdn.net/img/675296aa186b5.png"
+        },
+        {
+            "id": "2168",
+            "name": "WDG Challengers League 2024 Korea: Split 3",
+            "status": "completed",
+            "prizepool": "28651",
+            "dates": "Aug 12 Dec 6",
+            "country": "kr",
+            "img": "https://owcdn.net/img/6009f963577f4.png"
+        },
+        {
+            "id": "2233",
+            "name": "Spike Nations #5",
+            "status": "completed",
+            "prizepool": "15855",
+            "dates": "Nov 18 Dec 2",
+            "country": "eu",
+            "img": "https://owcdn.net/img/654bd6ca2941e.png"
+        },
+        {
+            "id": "2303",
+            "name": "NECC Fall 2024 - Div I Playoffs",
+            "status": "completed",
+            "prizepool": "0",
+            "dates": "Nov 11 Dec 2",
+            "country": "us",
+            "img": "https://owcdn.net/img/637d4a1c0e520.png"
+        },
+        {
+            "id": "2220",
+            "name": "Challengers League 2024 LATAM North ACE: Split 3",
+            "status": "completed",
+            "prizepool": "14000",
+            "dates": "Oct 10 Dec 1",
+            "country": "un",
+            "img": "https://owcdn.net/img/63cbac52cf906.png"
+        },
+        {
+            "id": "2150",
+            "name": "Challengers League 2024 North America: Stage 3",
+            "status": "completed",
+            "prizepool": "25000",
+            "dates": "Nov 5 Dec 1",
+            "country": "us",
+            "img": "https://owcdn.net/img/63bc56190e38e.png"
+        },
+        {
+            "id": "2279",
+            "name": "FunhaverGG: Winter Roundup 2",
+            "status": "completed",
+            "prizepool": "1000",
+            "dates": "Nov 29 Dec 1",
+            "country": "us",
+            "img": "https://owcdn.net/img/6744108f9a14f.png"
+        },
+        {
+            "id": "2286",
+            "name": "Raidiant Academy 2024: 107",
+            "status": "completed",
+            "prizepool": "2000",
+            "dates": "Nov 30 Dec 1",
+            "country": "us",
+            "img": "https://owcdn.net/img/65e3d189100fa.png"
+        },
+        {
+            "id": "2280",
+            "name": "The Surge #2",
+            "status": "completed",
+            "prizepool": "1500",
+            "dates": "Nov 30 Dec 1",
+            "country": "eu",
+            "img": "https://owcdn.net/img/66d5e32c2d6db.png"
+        },
+        {
+            "id": "2253",
+            "name": "Vortex Hidden Gem",
+            "status": "completed",
+            "prizepool": "2275",
+            "dates": "Nov 8 Dec 1",
+            "country": "un",
+            "img": "https://owcdn.net/img/672ae69c696e2.png"
+        },
+        {
+            "id": "2228",
+            "name": "Valorant Radiant Asia Invitational",
+            "status": "completed",
+            "prizepool": "0",
+            "dates": "Nov 20 Dec 1",
+            "country": "cn",
+            "img": "https://owcdn.net/img/670fa99fa7d7b.png"
+        },
+        {
+            "id": "2273",
+            "name": "ON Live Valorant Series 2024: Week 2",
+            "status": "completed",
+            "prizepool": "1822",
+            "dates": "Nov 23 Dec 1",
+            "country": "vn",
+            "img": "https://owcdn.net/img/674c447eeaff5.png"
+        },
+        {
+            "id": "2261",
+            "name": "Monsters Reloaded 2024",
+            "status": "completed",
+            "prizepool": "40000",
+            "dates": "Nov 30 Dec 1",
+            "country": "tr",
+            "img": "https://owcdn.net/img/673481a179928.png"
+        },
+        {
+            "id": "2314",
+            "name": "Gamegune Invitational 2024",
+            "status": "completed",
+            "prizepool": "4761",
+            "dates": "Nov 30",
+            "country": "es",
+            "img": "https://owcdn.net/img/61992f2130d5f.png"
+        },
+        {
+            "id": "2251",
+            "name": "Circuito Tormenta 24-25: Liga Radiante Split 1",
+            "status": "completed",
+            "prizepool": "1606",
+            "dates": "Oct 29 Nov 29",
+            "country": "es",
+            "img": "https://owcdn.net/img/62220ea912e96.png"
+        },
+        {
+            "id": "2268",
+            "name": "Battle of the Sea",
+            "status": "completed",
+            "prizepool": "0",
+            "dates": "Nov 29",
+            "country": "un",
+            "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png"
+        },
+        {
+            "id": "2157",
+            "name": "Challengers League 2024 Oceania: Stage 3",
+            "status": "completed",
+            "prizepool": "15000",
+            "dates": "Jul 24 Nov 28",
+            "country": "au",
+            "img": "https://owcdn.net/img/6009f963577f4.png"
+        },
+        {
+            "id": "2249",
+            "name": "For Those Who Dare 2024",
+            "status": "completed",
+            "prizepool": "15000",
+            "dates": "Nov 18 26",
+            "country": "us",
+            "img": "https://owcdn.net/img/64ff78a0a9f3b.png"
+        },
+        {
+            "id": "2267",
+            "name": "Crazy Raccoon Cup #9",
+            "status": "completed",
+            "prizepool": "9735",
+            "dates": "Nov 24 26",
+            "country": "jp",
+            "img": "https://owcdn.net/img/673c53b4a1bcf.png"
+        },
+        {
+            "id": "2270",
+            "name": "FunhaverGG: Winter Roundup 1",
+            "status": "completed",
+            "prizepool": "1450",
+            "dates": "Nov 22 24",
+            "country": "us",
+            "img": "https://owcdn.net/img/6744108f9a14f.png"
+        },
+        {
+            "id": "2189",
+            "name": "Sweden National League 2024 - Division 1",
+            "status": "completed",
+            "prizepool": "1469",
+            "dates": "Sep 6 Nov 24",
+            "country": "se",
+            "img": "https://owcdn.net/img/66e8bf5f404ee.png"
+        },
+        {
+            "id": "2223",
+            "name": "Challengers League 2024 Southeast Asia",
+            "status": "completed",
+            "prizepool": "75000",
+            "dates": "Oct 25 Nov 24",
+            "country": "un",
+            "img": "https://owcdn.net/img/6009f963577f4.png"
+        },
+        {
+            "id": "2262",
+            "name": "ON Live Valorant Series 2024: Week 1",
+            "status": "completed",
+            "prizepool": "1821",
+            "dates": "Nov 16 24",
+            "country": "vn",
+            "img": "https://owcdn.net/img/674c447eeaff5.png"
+        },
+        {
+            "id": "2171",
+            "name": "Red Bull Home Ground #5",
+            "status": "completed",
+            "prizepool": "",
+            "dates": "Nov 20 23",
+            "country": "de",
+            "img": "https://owcdn.net/img/615f3ad99dbe3.png"
+        },
+        {
+            "id": "2259",
+            "name": "Global Esports: Face Off",
+            "status": "completed",
+            "prizepool": "0",
+            "dates": "Nov 18 23",
+            "country": "in",
+            "img": "https://owcdn.net/img/629f316ddd4dd.png"
+        },
+        {
+            "id": "2263",
+            "name": "Valorant Indonesia Campus Protocol 2024",
+            "status": "completed",
+            "prizepool": "1890",
+            "dates": "Nov 11 20",
+            "country": "id",
+            "img": "https://owcdn.net/img/6735b01ab7073.png"
+        },
+        {
+            "id": "2240",
+            "name": "Challengers League 2024 North: Polaris ECLIPSE",
+            "status": "completed",
+            "prizepool": "0",
+            "dates": "Nov 9 19",
+            "country": "eu",
+            "img": "https://owcdn.net/img/63a1bab08cfca.png"
+        },
+        {
+            "id": "2264",
+            "name": "YFP Lockdown Arena #3",
+            "status": "completed",
+            "prizepool": "1250",
+            "dates": "Nov 15 17",
+            "country": "us",
+            "img": "https://owcdn.net/img/6712b9750a507.png"
+        },
+        {
+            "id": "2124",
+            "name": "Game Changers 2024 Championship: Berlin",
+            "status": "completed",
+            "prizepool": "500000",
+            "dates": "Nov 8 17",
+            "country": "de",
+            "img": "https://owcdn.net/img/604be13d01964.png"
+        },
+        {
+            "id": "2254",
+            "name": "Predator League 2025 Oceania",
+            "status": "completed",
+            "prizepool": "6555",
+            "dates": "Nov 8 17",
+            "country": "au",
+            "img": "https://owcdn.net/img/6700aa169acc8.png"
+        },
+        {
+            "id": "2209",
+            "name": "Predator League 2025 Malaysia",
+            "status": "completed",
+            "prizepool": "11644",
+            "dates": "Sep 14 Nov 17",
+            "country": "my",
+            "img": "https://owcdn.net/img/6700aa169acc8.png"
+        },
+        {
+            "id": "2272",
+            "name": "CCCE City Cup 2024",
+            "status": "completed",
+            "prizepool": "1231",
+            "dates": "Oct 20 Nov 17",
+            "country": "tw",
+            "img": "https://owcdn.net/img/6700aa169acc8.png"
+        },
+        {
+            "id": "2250",
+            "name": "Esports Series Madrid 2024",
+            "status": "completed",
+            "prizepool": "1625",
+            "dates": "Oct 27 Nov 16",
+            "country": "es",
+            "img": "https://owcdn.net/img/6585c430c53f0.png"
+        },
+        {
+            "id": "2257",
+            "name": "MVT 3: Stage 2",
+            "status": "completed",
+            "prizepool": "1468",
+            "dates": "Nov 12 15",
+            "country": "mn",
+            "img": "https://owcdn.net/img/66dac0b39d43c.png"
+        },
+        {
+            "id": "2201",
+            "name": "Finland National League 2024 - Division 1",
+            "status": "completed",
+            "prizepool": "1936",
+            "dates": "Sep 18 Nov 12",
+            "country": "fi",
+            "img": "https://owcdn.net/img/66e738b0662d3.png"
+        },
+        {
+            "id": "2256",
+            "name": "Raidiant Academy 2024: 106",
+            "status": "completed",
+            "prizepool": "2000",
+            "dates": "Nov 9 10",
+            "country": "us",
+            "img": "https://owcdn.net/img/65e3d189100fa.png"
+        },
+        {
+            "id": "2234",
+            "name": "FGC Invitational 2024",
+            "status": "completed",
+            "prizepool": "",
+            "dates": "Oct 30 Nov 10",
+            "country": "cn",
+            "img": "https://owcdn.net/img/637335516b953.png"
+        },
+        {
+            "id": "2213",
+            "name": "Predator League 2025 Philippines",
+            "status": "completed",
+            "prizepool": "8066",
+            "dates": "Oct 8 Nov 10",
+            "country": "ph",
+            "img": "https://owcdn.net/img/6700aa169acc8.png"
+        },
+        {
+            "id": "2215",
+            "name": "Predator League 2025 Indonesia",
+            "status": "completed",
+            "prizepool": "6999",
+            "dates": "Oct 23 Nov 10",
+            "country": "id",
+            "img": "https://owcdn.net/img/6700aa169acc8.png"
+        },
+        {
+            "id": "2226",
+            "name": "KCX4: Forever Rivals",
+            "status": "completed",
+            "prizepool": "0",
+            "dates": "Nov 9",
+            "country": "fr",
+            "img": "https://owcdn.net/img/672fe014f0a21.png"
+        },
+        {
+            "id": "2258",
+            "name": "Climbing Series #2: Playoffs",
+            "status": "completed",
+            "prizepool": "2908",
+            "dates": "Nov 1 9",
+            "country": "tr",
+            "img": "https://owcdn.net/img/66aa848a7a203.png"
+        },
+        {
+            "id": "2242",
+            "name": "LPL Pathfinder Season 3",
+            "status": "completed",
+            "prizepool": "1598",
+            "dates": "Oct 7 Nov 9",
+            "country": "au",
+            "img": "https://owcdn.net/img/65cc7faf2cd70.png"
+        },
+        {
+            "id": "2230",
+            "name": "Project V: Project Queens 2024 - Split 3",
+            "status": "completed",
+            "prizepool": "2721",
+            "dates": "Sep 10 Nov 7",
+            "country": "de",
+            "img": "https://owcdn.net/img/64b17f6c2d8a9.png"
+        },
+        {
+            "id": "2204",
+            "name": "VALORANT UK Circuit Autumn Swiss 2024",
+            "status": "completed",
+            "prizepool": "1337",
+            "dates": "Oct 16 Nov 6",
+            "country": "gb",
+            "img": "https://owcdn.net/img/66fdc73b19a03.png"
+        },
+        {
+            "id": "2221",
+            "name": "Challengers League 2024 LATAM South ACE: Split 3",
+            "status": "completed",
+            "prizepool": "14000",
+            "dates": "Oct 26 Nov 3",
+            "country": "un",
+            "img": "https://owcdn.net/img/63cbac52cf906.png"
+        },
+        {
+            "id": "2245",
+            "name": "The Funhaver Invitational - Resurgence 2",
+            "status": "completed",
+            "prizepool": "2250",
+            "dates": "Oct 31 Nov 3",
+            "country": "us",
+            "img": "https://owcdn.net/img/6714ae2717421.png"
+        },
+        {
+            "id": "2248",
+            "name": "SEN City Classic",
+            "status": "completed",
+            "prizepool": "20000",
+            "dates": "Nov 1 3",
+            "country": "us",
+            "img": "https://owcdn.net/img/672158045f9f1.png"
+        },
+        {
+            "id": "2216",
+            "name": "Gwangju Esports Series Asia 2024",
+            "status": "completed",
+            "prizepool": "28978",
+            "dates": "Nov 2 3",
+            "country": "kr",
+            "img": "https://owcdn.net/img/6706748e08b72.png"
+        },
+        {
+            "id": "2195",
+            "name": "Mentora Finals",
+            "status": "completed",
+            "prizepool": "919",
+            "dates": "Nov 2",
+            "country": "br",
+            "img": "https://owcdn.net/img/66f6f14e5e23d.png"
+        },
+        {
+            "id": "2252",
+            "name": "Red Bull Home Ground #5 Qualifiers",
+            "status": "completed",
+            "prizepool": "5587",
+            "dates": "Aug 6 Nov 2",
+            "country": "un",
+            "img": "https://owcdn.net/img/615f3ad99dbe3.png"
+        },
+        {
+            "id": "2227",
+            "name": "Saudi eLeague 2024: Major 4",
+            "status": "completed",
+            "prizepool": "13318",
+            "dates": "Oct 15 Nov 1",
+            "country": "sa",
+            "img": "https://owcdn.net/img/62bae74c4c147.png"
+        },
+        {
+            "id": "2236",
+            "name": "The Funhaver Invitational - Resurgence",
+            "status": "completed",
+            "prizepool": "1200",
+            "dates": "Oct 24 27",
+            "country": "us",
+            "img": "https://owcdn.net/img/6714ae2717421.png"
+        },
+        {
+            "id": "2244",
+            "name": "Raidiant Academy 2024: 105",
+            "status": "completed",
+            "prizepool": "2000",
+            "dates": "Oct 26 27",
+            "country": "us",
+            "img": "https://owcdn.net/img/65e3d189100fa.png"
+        },
+        {
+            "id": "2247",
+            "name": "Liga GG - Playmatch Circuit",
+            "status": "completed",
+            "prizepool": "700",
+            "dates": "Oct 27",
+            "country": "br",
+            "img": "https://owcdn.net/img/671ee0c00a000.png"
+        },
+        {
+            "id": "2202",
+            "name": "Norway National League 2024 - Division 1",
+            "status": "completed",
+            "prizepool": "1896",
+            "dates": "Sep 5 Oct 27",
+            "country": "no",
+            "img": "https://owcdn.net/img/64518f2388a8b.png"
+        },
+        {
+            "id": "2237",
+            "name": "Lioness Cup 2024",
+            "status": "completed",
+            "prizepool": "1304",
+            "dates": "Oct 19 27",
+            "country": "eu",
+            "img": "https://owcdn.net/img/67155a9f361cd.png"
+        },
+        {
+            "id": "2232",
+            "name": "WALL-E Cup",
+            "status": "completed",
+            "prizepool": "14081",
+            "dates": "Oct 19 27",
+            "country": "cn",
+            "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png"
+        },
+        {
+            "id": "2243",
+            "name": "EPIC.LAN #43",
+            "status": "completed",
+            "prizepool": "3888",
+            "dates": "Oct 25 27",
+            "country": "gb",
+            "img": "https://owcdn.net/img/652c0685e2316.png"
+        },
+        {
+            "id": "2239",
+            "name": "Penta Pro Series Season 2",
+            "status": "completed",
+            "prizepool": "17842",
+            "dates": "Oct 21 27",
+            "country": "in",
+            "img": "https://owcdn.net/img/6395aeb9b0e38.png"
+        },
+        {
+            "id": "2218",
+            "name": "Predator League 2025 Thailand",
+            "status": "completed",
+            "prizepool": "8406",
+            "dates": "Aug 26 Oct 27",
+            "country": "th",
+            "img": "https://owcdn.net/img/6700aa169acc8.png"
+        },
+        {
+            "id": "2246",
+            "name": "Predator League 2025 Singapore",
+            "status": "completed",
+            "prizepool": "3407",
+            "dates": "Oct 25 27",
+            "country": "sg",
+            "img": "https://owcdn.net/img/6700aa169acc8.png"
+        },
+        {
+            "id": "2241",
+            "name": "Predator League 2025 Vietnam",
+            "status": "completed",
+            "prizepool": "6304",
+            "dates": "Oct 17 27",
+            "country": "vn",
+            "img": "https://owcdn.net/img/6700aa169acc8.png"
+        },
+        {
+            "id": "2219",
+            "name": "TEN Valorant Asia Invitational",
+            "status": "completed",
+            "prizepool": "28804",
+            "dates": "Oct 26 27",
+            "country": "kr",
+            "img": "https://owcdn.net/img/6399b8e88c628.png"
+        },
+        {
+            "id": "2207",
+            "name": "VCT OFF//SEASON Spotlight Series 2024: EMEA",
+            "status": "completed",
+            "prizepool": "32942",
+            "dates": "Oct 10 24",
+            "country": "fr",
+            "img": "https://owcdn.net/img/675206f446122.png"
+        },
+        {
+            "id": "2217",
+            "name": "Sentinels Showmatch 2024",
+            "status": "completed",
+            "prizepool": "0",
+            "dates": "Oct 9 22",
+            "country": "us",
+            "img": "https://owcdn.net/img/60cedc3d59613.png"
+        },
+        {
+            "id": "2238",
+            "name": "Saudi Womens eLeague 2024: Major 3",
+            "status": "completed",
+            "prizepool": "10649",
+            "dates": "Oct 9 22",
+            "country": "sa",
+            "img": "https://owcdn.net/img/62bae74c4c147.png"
+        },
+        {
+            "id": "2153",
+            "name": "Game Changers 2024 North America: Series 3",
+            "status": "completed",
+            "prizepool": "",
+            "dates": "Jul 23 Oct 21",
+            "country": "us",
+            "img": "https://owcdn.net/img/604be13d01964.png"
+        },
+        {
+            "id": "2222",
+            "name": "MilkTeaBoards Invitational x Arbiter Studio",
+            "status": "completed",
+            "prizepool": "1000",
+            "dates": "Oct 19 20",
+            "country": "us",
+            "img": "https://owcdn.net/img/670dfad197c60.png"
+        },
+        {
+            "id": "2235",
+            "name": "YFP Lockdown Arena #2",
+            "status": "completed",
+            "prizepool": "1250",
+            "dates": "Oct 18 20",
+            "country": "us",
+            "img": "https://owcdn.net/img/6712b9750a507.png"
+        },
+        {
+            "id": "2211",
+            "name": "Liga CB - S\u00e9rie A",
+            "status": "completed",
+            "prizepool": "5000",
+            "dates": "Oct 11 20",
+            "country": "br",
+            "img": "https://owcdn.net/img/6703d3e78b24f.png"
+        },
+        {
+            "id": "2192",
+            "name": "Game Changers 2024 China",
+            "status": "completed",
+            "prizepool": "35000",
+            "dates": "Sep 25 Oct 20",
+            "country": "cn",
+            "img": "https://owcdn.net/img/604be13d01964.png"
+        },
+        {
+            "id": "2203",
+            "name": "VALORANT \u00c9ire - Ireland National League 2024",
+            "status": "completed",
+            "prizepool": "835",
+            "dates": "Sep 6 Oct 20",
+            "country": "ie",
+            "img": "https://owcdn.net/img/671eaeb4cfe51.png"
+        },
+        {
+            "id": "2194",
+            "name": "Challengers 2024 Spain Rising: Consolidation",
+            "status": "completed",
+            "prizepool": "0",
+            "dates": "Sep 24 Oct 19",
+            "country": "es",
+            "img": "https://owcdn.net/img/63a1b03f5f599.png"
+        },
+        {
+            "id": "2186",
+            "name": "Denmark National League 2024 - Division 1",
+            "status": "completed",
+            "prizepool": "",
+            "dates": "Sep 10 Oct 15",
+            "country": "dk",
+            "img": "https://owcdn.net/img/66e738b0662d3.png"
+        },
+        {
+            "id": "2199",
+            "name": "The Funhaver Invitational - Fight or Flight Finals",
+            "status": "completed",
+            "prizepool": "5000",
+            "dates": "Oct 11 13",
+            "country": "us",
+            "img": "https://owcdn.net/img/6711f3334e8bf.png"
+        },
+        {
+            "id": "2212",
+            "name": "Ludwig x Tarik Invitational 3",
+            "status": "completed",
+            "prizepool": "",
+            "dates": "Oct 12 13",
+            "country": "us",
+            "img": "https://owcdn.net/img/6706d7679a5eb.png"
+        },
+        {
+            "id": "2214",
+            "name": "Predator League 2025 Japan",
+            "status": "completed",
+            "prizepool": "6725",
+            "dates": "Oct 11 13",
+            "country": "jp",
+            "img": "https://owcdn.net/img/6700aa169acc8.png"
+        },
+        {
+            "id": "2183",
+            "name": "Game Changers 2024 Brazil: Series 3",
+            "status": "completed",
+            "prizepool": "14255",
+            "dates": "Sep 5 Oct 13",
+            "country": "br",
+            "img": "https://owcdn.net/img/604be13d01964.png"
+        },
+        {
+            "id": "2197",
+            "name": "Game Changers 2024 LATAM: Regional Finals",
+            "status": "completed",
+            "prizepool": "7232",
+            "dates": "Oct 11 12",
+            "country": "ar",
+            "img": "https://owcdn.net/img/604be13d01964.png"
+        },
+        {
+            "id": "2180",
+            "name": "Community Gaming SERIES #17",
+            "status": "completed",
+            "prizepool": "1000",
+            "dates": "Sep 2 Oct 9",
+            "country": "br",
+            "img": "https://owcdn.net/img/6511bc20bb3eb.png"
+        },
+        {
+            "id": "2198",
+            "name": "The Funhaver Invitational - Fight or Flight LCQ",
+            "status": "completed",
+            "prizepool": "0",
+            "dates": "Oct 4 6",
+            "country": "us",
+            "img": "https://owcdn.net/img/6711f3334e8bf.png"
+        },
+        {
+            "id": "2181",
+            "name": "Game Changers 2024 EMEA: Stage 3",
+            "status": "completed",
+            "prizepool": "34533",
+            "dates": "Sep 6 Oct 6",
+            "country": "eu",
+            "img": "https://owcdn.net/img/604be13d01964.png"
+        },
+        {
+            "id": "2018",
+            "name": "Game Changers 2024 Pacific",
+            "status": "completed",
+            "prizepool": "20000",
+            "dates": "Sep 30 Oct 6",
+            "country": "th",
+            "img": "https://owcdn.net/img/604be13d01964.png"
+        },
+        {
+            "id": "2158",
+            "name": "Game Changers 2024 LATAM North: Closing",
+            "status": "completed",
+            "prizepool": "16871",
+            "dates": "Jul 29 Oct 2",
+            "country": "un",
+            "img": "https://owcdn.net/img/604be13d01964.png"
+        },
+        {
+            "id": "2159",
+            "name": "Game Changers 2024 LATAM South: Closing",
+            "status": "completed",
+            "prizepool": "16871",
+            "dates": "Jul 29 Oct 1",
+            "country": "un",
+            "img": "https://owcdn.net/img/604be13d01964.png"
+        },
+        {
+            "id": "2196",
+            "name": "The Funhaver Invitational - Fight or Flight 3",
+            "status": "completed",
+            "prizepool": "1500",
+            "dates": "Sep 27 29",
+            "country": "us",
+            "img": "https://owcdn.net/img/6711f3334e8bf.png"
+        },
+        {
+            "id": "2146",
+            "name": "Champions Tour 2024 Pacific: Ascension",
+            "status": "completed",
+            "prizepool": "100000",
+            "dates": "Sep 20 29",
+            "country": "id",
+            "img": "https://owcdn.net/img/6009f963577f4.png"
+        },
+        {
+            "id": "2185",
+            "name": "Saudi eLeague 2024: Major 3",
+            "status": "completed",
+            "prizepool": "13322",
+            "dates": "Sep 25 28",
+            "country": "sa",
+            "img": "https://owcdn.net/img/62bae74c4c147.png"
+        },
+        {
+            "id": "2210",
+            "name": "GAMEON VALORANT Tournament #2",
+            "status": "completed",
+            "prizepool": "10547",
+            "dates": "Sep 20 28",
+            "country": "tr",
+            "img": "https://owcdn.net/img/64f86a05909af.png"
+        },
+        {
+            "id": "2191",
+            "name": "YFP x Alliance Lockdown Arena",
+            "status": "completed",
+            "prizepool": "2000",
+            "dates": "Sep 23 25",
+            "country": "us",
+            "img": "https://owcdn.net/img/66f106fc89f75.png"
+        },
+        {
+            "id": "2188",
+            "name": "The Funhaver Invitational - Fight or Flight 2",
+            "status": "completed",
+            "prizepool": "1500",
+            "dates": "Sep 20 22",
+            "country": "us",
+            "img": "https://owcdn.net/img/6711f3334e8bf.png"
+        },
+        {
+            "id": "2190",
+            "name": "HUE Invitational 2024",
+            "status": "completed",
+            "prizepool": "5000",
+            "dates": "Sep 20 22",
+            "country": "us",
+            "img": "https://owcdn.net/img/6504e27e9f6eb.png"
+        },
+        {
+            "id": "2193",
+            "name": "Raidiant Academy 2024: 104",
+            "status": "completed",
+            "prizepool": "2000",
+            "dates": "Sep 21 22",
+            "country": "us",
+            "img": "https://owcdn.net/img/65e3d189100fa.png"
+        },
+        {
+            "id": "2135",
+            "name": "Champions Tour 2024 Americas: Ascension",
+            "status": "completed",
+            "prizepool": "105000",
+            "dates": "Sep 10 21",
+            "country": "mx",
+            "img": "https://owcdn.net/img/6009f963577f4.png"
+        },
+        {
+            "id": "2149",
+            "name": "Champions Tour 2024 China: Ascension",
+            "status": "completed",
+            "prizepool": "",
+            "dates": "Sep 11 21",
+            "country": "cn",
+            "img": "https://owcdn.net/img/6009f963577f4.png"
+        },
+        {
+            "id": "2187",
+            "name": "NRG Neon Dream Invitational 2024",
+            "status": "completed",
+            "prizepool": "10000",
+            "dates": "Sep 16 17",
+            "country": "us",
+            "img": "https://owcdn.net/img/66e8901970dfd.png"
+        },
+        {
+            "id": "2143",
+            "name": "Champions Tour 2024 EMEA: Ascension",
+            "status": "completed",
+            "prizepool": "110280",
+            "dates": "Jul 28 Sep 16",
+            "country": "de",
+            "img": "https://owcdn.net/img/6009f963577f4.png"
+        },
+        {
+            "id": "2184",
+            "name": "The Funhaver Invitational - Fight or Flight 1",
+            "status": "completed",
+            "prizepool": "1250",
+            "dates": "Sep 13 15",
+            "country": "us",
+            "img": "https://owcdn.net/img/6711f3334e8bf.png"
+        },
+        {
+            "id": "2182",
+            "name": "MVT 3: Stage 1",
+            "status": "completed",
+            "prizepool": "1480",
+            "dates": "Sep 2 13",
+            "country": "mn",
+            "img": "https://owcdn.net/img/66dac0b39d43c.png"
+        },
+        {
+            "id": "2179",
+            "name": "EVC x Crunch The Surge #1",
+            "status": "completed",
+            "prizepool": "1000",
+            "dates": "Aug 31 Sep 1",
+            "country": "eu",
+            "img": "https://owcdn.net/img/66d5e32c2d6db.png"
+        },
+        {
+            "id": "2174",
+            "name": "The Funhaver Invitational - Summertime Slugfest 6",
+            "status": "completed",
+            "prizepool": "2000",
+            "dates": "Aug 23 25",
+            "country": "us",
+            "img": "https://owcdn.net/img/6711f3334e8bf.png"
+        },
+        {
+            "id": "2097",
+            "name": "Valorant Champions 2024",
+            "status": "completed",
+            "prizepool": "2250000",
+            "dates": "Aug 1 25",
+            "country": "kr",
+            "img": "https://owcdn.net/img/63067806d167d.png"
+        },
+        {
+            "id": "2176",
+            "name": "Bell Esports Challenge 2024",
+            "status": "completed",
+            "prizepool": "7335",
+            "dates": "Aug 23",
+            "country": "ca",
+            "img": "https://owcdn.net/img/630d31ec67b19.png"
+        },
+        {
+            "id": "2169",
+            "name": "Game Changers 2024 LATAM North: Swift Cup 4",
+            "status": "completed",
+            "prizepool": "766",
+            "dates": "Aug 11 23",
+            "country": "un",
+            "img": "https://owcdn.net/img/604be13d01964.png"
+        },
+        {
+            "id": "2170",
+            "name": "Game Changers 2024 LATAM South: Swift Cup 4",
+            "status": "completed",
+            "prizepool": "0",
+            "dates": "Aug 11 23",
+            "country": "un",
+            "img": "https://owcdn.net/img/604be13d01964.png"
+        },
+        {
+            "id": "2177",
+            "name": "EPIC.LAN #42",
+            "status": "completed",
+            "prizepool": "3505",
+            "dates": "Aug 19 21",
+            "country": "gb",
+            "img": "https://owcdn.net/img/652c0685e2316.png"
+        },
+        {
+            "id": "2172",
+            "name": "The Funhaver Invitational - Summertime Slugfest 5",
+            "status": "completed",
+            "prizepool": "1200",
+            "dates": "Aug 16 18",
+            "country": "us",
+            "img": "https://owcdn.net/img/6711f3334e8bf.png"
+        },
+        {
+            "id": "2175",
+            "name": "Super Girl Gamer Pro - 2024 Championship",
+            "status": "completed",
+            "prizepool": "5000",
+            "dates": "Aug 11 17",
+            "country": "us",
+            "img": "https://owcdn.net/img/6326bab5690e0.png"
+        },
+        {
+            "id": "2156",
+            "name": "CBVL: Premier League",
+            "status": "completed",
+            "prizepool": "8054",
+            "dates": "Aug 7 15",
+            "country": "br",
+            "img": "https://owcdn.net/img/668cb2d1117ef.png"
+        },
+        {
+            "id": "2167",
+            "name": "The Funhaver Invitational - Summertime Slugfest 4",
+            "status": "completed",
+            "prizepool": "1500",
+            "dates": "Aug 9 11",
+            "country": "us",
+            "img": "https://owcdn.net/img/6711f3334e8bf.png"
+        },
+        {
+            "id": "2164",
+            "name": "ROK Run It Back",
+            "status": "completed",
+            "prizepool": "5000",
+            "dates": "Aug 2 4",
+            "country": "us",
+            "img": "https://owcdn.net/img/66ae809d1703b.png"
+        },
+        {
+            "id": "2126",
+            "name": "Challengers League 2024 LATAM: Regional Playoffs",
+            "status": "completed",
+            "prizepool": "0",
+            "dates": "Jul 26 28",
+            "country": "mx",
+            "img": "https://owcdn.net/img/6009f963577f4.png"
+        },
+        {
+            "id": "2076",
+            "name": "Challengers League 2024 Thailand: Ascension Qualifier Series",
+            "status": "completed",
+            "prizepool": "0",
+            "dates": "Jul 26 28",
+            "country": "th",
+            "img": "https://owcdn.net/img/6009f963577f4.png"
+        },
+        {
+            "id": "2142",
+            "name": "Game Changers 2024 Korea: Stage 2",
+            "status": "completed",
+            "prizepool": "7245",
+            "dates": "Jul 19 28",
+            "country": "kr",
+            "img": "https://owcdn.net/img/604be13d01964.png"
+        },
+        {
+            "id": "2160",
+            "name": "Oredoo Nation Gamers' Land Seasonal Championship",
+            "status": "completed",
+            "prizepool": "651",
+            "dates": "Jul 14 27",
+            "country": "mv",
+            "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png"
+        },
+        {
+            "id": "2144",
+            "name": "Challengers League 2024 MENA: Regional Playoffs",
+            "status": "completed",
+            "prizepool": "0",
+            "dates": "Jul 23 26",
+            "country": "sa",
+            "img": "https://owcdn.net/img/63d7ef4687006.png"
+        },
+        {
+            "id": "2152",
+            "name": "Game Changers 2024 LATAM South: Swift Cup 3",
+            "status": "completed",
+            "prizepool": "0",
+            "dates": "Jul 16 26",
+            "country": "un",
+            "img": "https://owcdn.net/img/604be13d01964.png"
+        },
+        {
+            "id": "2151",
+            "name": "Game Changers 2024 LATAM North: Swift Cup 3",
+            "status": "completed",
+            "prizepool": "766",
+            "dates": "Jul 16 26",
+            "country": "un",
+            "img": "https://owcdn.net/img/604be13d01964.png"
+        },
+        {
+            "id": "2178",
+            "name": "VALORANT EAST: UNITED: Season 3: Split 2 - Finals",
+            "status": "completed",
+            "prizepool": "7500",
+            "dates": "Jul 21 24",
+            "country": "eu",
+            "img": "https://owcdn.net/img/623c03abe705a.png"
+        },
+        {
+            "id": "2017",
+            "name": "Game Changers 2024 Japan: Split 2",
+            "status": "completed",
+            "prizepool": "6592",
+            "dates": "Jul 4 24",
+            "country": "jp",
+            "img": "https://owcdn.net/img/604be13d01964.png"
+        },
+        {
+            "id": "2154",
+            "name": "Funhaver x ROK: Run It Back 2",
+            "status": "completed",
+            "prizepool": "1500",
+            "dates": "Jul 19 21",
+            "country": "us",
+            "img": "https://owcdn.net/img/6711f3334e8bf.png"
+        },
+        {
+            "id": "2161",
+            "name": "Challengers League 2024 MENA Resilience: Split 2 Promotion",
+            "status": "completed",
+            "prizepool": "0",
+            "dates": "Jul 15 21",
+            "country": "un",
+            "img": "https://owcdn.net/img/63d7ef4687006.png"
+        },
+        {
+            "id": "2145",
+            "name": "CBVL: 2024",
+            "status": "completed",
+            "prizepool": "6396",
+            "dates": "Jul 15 20",
+            "country": "br",
+            "img": "https://owcdn.net/img/668cb2d1117ef.png"
+        },
+        {
+            "id": "2162",
+            "name": "Climbing Series: Playoffs",
+            "status": "completed",
+            "prizepool": "9215",
+            "dates": "Jul 10 18",
+            "country": "tr",
+            "img": "https://owcdn.net/img/66aa848a7a203.png"
+        },
+        {
+            "id": "2163",
+            "name": "VALORANT Open Tour France 2024: Playoffs",
+            "status": "completed",
+            "prizepool": "0",
+            "dates": "Jul 12 14",
+            "country": "fr",
+            "img": "https://owcdn.net/img/60918cde5ed00.png"
+        },
+        {
+            "id": "2166",
+            "name": "Project V 2024 Division 1 - Split 2 - Playoffs",
+            "status": "completed",
+            "prizepool": "5396",
+            "dates": "Jul 7 13",
+            "country": "eu",
+            "img": "https://owcdn.net/img/64ba68b3ed067.png"
+        },
+        {
+            "id": "2147",
+            "name": "Funhaver x ROK: Run It Back",
+            "status": "completed",
+            "prizepool": "1500",
+            "dates": "Jul 8 10",
+            "country": "us",
+            "img": "https://owcdn.net/img/6711f3334e8bf.png"
+        },
+        {
+            "id": "2155",
+            "name": "Challengers League 2024 South Asia: Split 3",
+            "status": "completed",
+            "prizepool": "50000",
+            "dates": "Jul 20 TBD",
+            "country": "in",
+            "img": "https://owcdn.net/img/6009f963577f4.png"
+        }
+    ]
+}
