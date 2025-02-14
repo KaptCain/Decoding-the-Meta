@@ -148,5 +148,5 @@ valid_agents = df_all_ranks[df_all_ranks["role"] == role_name]["agent"].unique()
 # Find the first predicted agent that matches the role
 best_agent = next((agent for agent in predicted_agents if agent in valid_agents), "No valid agent found")
 
-(f" Best Agent for {map_name} as {role_name} at {rank_name}: {best_agent}")
+print(f" Best Agent for {map_name} as {role_name} at {rank_name}: {best_agent}")
     

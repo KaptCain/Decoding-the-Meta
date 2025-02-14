@@ -73,11 +73,34 @@ def get_best_team(rank, map_name, xgb_model, label_encoders, team_df):
     best_winrate = 0
 
     # Iterate through predefined teams
+def get_best_team(rank, map_name, xgb_model, label_encoders, team_df):
+    """ Predicts the best team composition for a given rank and map using preset teams. """
+
+    # Filter dataset for the given map and rank
+    filtered_df = team_df[(team_df["Map"] == map_name) & (team_df["Rank"] == rank)]
+
+    if filtered_df.empty:
+        print(f"⚠️ No valid teams found for {rank} on {map_name}.")
+        return None, None
+
+    best_team = None
+    best_winrate = 0
+
+    # Iterate through predefined teams
     for _, row in filtered_df.iterrows():
         team = [row["Agent1"], row["Agent2"], row["Agent3"], row["Agent4"], row["Agent5"]]
 
-        # Encode selected team agents
-        encoded_agents = [label_encoders["agent"].transform([agent])[0] if agent in label_encoders["agent"].classes_ else -1 for agent in team]
+        # Encode each agent using the correct column encoder
+        encoded_agents = []
+        for i, agent in enumerate(team):
+            agent_col = f"Agent{i+1}"  # Agent1, Agent2, etc.
+            if agent_col in label_encoders:
+                if agent in label_encoders[agent_col].classes_:
+                    encoded_agents.append(label_encoders[agent_col].transform([agent])[0])
+                else:
+                    encoded_agents.append(-1)  # Handle unseen agents
+            else:
+                encoded_agents.append(-1)  # If no encoder exists
 
         # One-hot encode the rank
         rank_columns = ['Rank_Ascendant', 'Rank_Bronze', 'Rank_Diamond', 'Rank_Gold', 'Rank_Immortal',
@@ -114,4 +137,3 @@ best_team, predicted_winrate = get_best_team(rank, map_name, xgb_model, label_en
 print(f" **Best Team Composition for {rank} on {map_name}:**")
 print("Agents:", best_team)
 print(f"Predicted Win Rate: {predicted_winrate:.2f}")
-
